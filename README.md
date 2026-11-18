@@ -28,9 +28,9 @@ Aggressively hands on, mildly caffeinated, permanently turning wild ideas into r
 
 <p align="center">
 <a href="https://github.com/Benjaaaminnn19"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github"></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
+<a href="https://www.instagram.com/_bvnjaaaam" target="_blank"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
 <a href="mailto:152056902+Benjaaaminnn19@users.noreply.github.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
-<a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
