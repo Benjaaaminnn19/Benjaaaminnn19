@@ -1,77 +1,91 @@
 <p align="center">
-  <img src="./header.svg" alt="Benjamín · Ideas, código y proyectos" width="100%" />
+  <img src="./header.svg" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hola, soy Benjamín 👋</h1>
-<p align="center"><strong>Desarrollo web · Python & Django · React</strong></p>
-<p align="center">Convirtiendo ideas en proyectos, un commit a la vez.</p>
+<h1 align="center">Hi 👋🏻, I'm Benjamín</h1>
+
+<h3 align="center">Full Stack Developer · Python & Django · React</h3>
 
 <p align="center">
-  <a href="#-sobre-mí">Sobre mí</a> ·
-  <a href="#-tecnologías">Tecnologías</a> ·
-  <a href="#-proyectos-destacados">Proyectos</a> ·
-  <a href="https://github.com/Benjaaaminnn19?tab=repositories">Ver repositorios ↗</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Full+Stack+Development;%3E+Python+%26+Django+Architecture;%3E+React+%26+Modern+Frontends;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🟩 Sobre mí
+<img align="right" src="./astro.png" width="280" alt="Astro Illustration"/>
 
-Soy Benjamín. En este espacio comparto mis proyectos de desarrollo web: desde interfaces con **React** hasta aplicaciones y APIs con **Python y Django**.
+So here's the coffee ☕ I'm a full stack developer passionate about building web applications and bringing ideas into production, one commit at a time.
 
-Me interesa conectar lo que ve el usuario con la lógica y los datos que hacen funcionar una aplicación. Mis repositorios incluyen proyectos de gestión, una aplicación de gimnasio con tienda e integraciones entre backend y frontend.
+I blend structured code, robust database architectures, and intuitive user experiences into real, actual, shipped products. I work end-to-end: from designing data models and REST APIs with **Python & Django** to crafting reactive, dynamic user interfaces with **React**.
 
-**Mi enfoque:** aprender construyendo, resolver problemas concretos y mejorar con cada proyecto.
+My days basically go: dream up a concept → build it → break it → fix the bug I definitely just created → repeat until it works → act surprised when it works.
 
-## 🧩 Tecnologías
+Aggressively hands on, mildly caffeinated, permanently turning wild ideas into reality powered by curiosity, coffee, and clean commits.
+
+<br clear="right"/>
+
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <img src="./stack.svg" alt="Tecnologías presentes en mis proyectos: Python, Django, React, JavaScript, HTML, CSS, PostgreSQL, MySQL, Git y Vite." width="100%" />
+<a href="https://github.com/Benjaaaminnn19"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github"></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"></a>
+<a href="mailto:152056902+Benjaaaminnn19@users.noreply.github.com"><img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email"></a>
+<a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=black" alt="x"></a>
 </p>
 
-## 🚀 Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Gimnasio & tienda</h3>
-      <p>Aplicación web con catálogo de productos y gestión de órdenes para un gimnasio.</p>
-      <p><code>Python</code> <code>Django</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/Benjaaaminnn19/djangogm"><strong>Explorar djangogm →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Backend + frontend</h3>
-      <p>Proyecto que reúne una API con Django REST Framework y una interfaz con React y Vite.</p>
-      <p><code>Django REST</code> <code>React</code> <code>MySQL</code></p>
-      <a href="https://github.com/Benjaaaminnn19/backend-y-frontend"><strong>Explorar el proyecto →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / SoftwareApp</h3>
-      <p>Aplicación de gestión de calificaciones tributarias con roles de usuario, carga de datos y reportes.</p>
-      <p><code>Python</code> <code>Django</code> <code>Gestión de datos</code></p>
-      <a href="https://github.com/Benjaaaminnn19/SoftwareApp"><strong>Explorar SoftwareApp →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Práctica con React</h3>
-      <p>Proyecto de frontend para desarrollar interfaces y trabajar con navegación mediante React Router.</p>
-      <p><code>JavaScript</code> <code>React</code> <code>React Router</code></p>
-      <a href="https://github.com/Benjaaaminnn19/actividadreact"><strong>Explorar actividadreact →</strong></a>
-    </td>
-  </tr>
-</table>
-
-## 📊 Actividad en GitHub
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <a href="https://github.com/Benjaaaminnn19?tab=overview">
-    <img src="./activity.svg" alt="Actividad pública de Benjaaaminnn19. Instantánea al 25 de septiembre de 2026." width="100%" />
-  </a>
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind">
+<br><br>
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github">
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash">
 </p>
-<p align="center"><sub>Instantánea de la actividad pública al 25 de septiembre de 2026. Consulta las contribuciones actualizadas en mi perfil.</sub></p>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center"><strong>Gracias por visitar mi espacio.</strong><br />Cada proyecto es una oportunidad para aprender algo nuevo.</p>
-<p align="center"><a href="https://github.com/Benjaaaminnn19?tab=repositories">Explora mis repositorios ↗</a> · <a href="https://github.com/Benjaaaminnn19?tab=stars">Mis favoritos ☆</a></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjaaaminnn19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Benjaaaminnn19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjaaaminnn19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjaaaminnn19&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<h2 align="center">⌘ Commit Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Benjaaaminnn19/Benjaaaminnn19/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <em>"El buen código siempre parece que fue escrito por alguien a quien realmente le importaba."</em>
+  <br>
+  <sub>— Robert C. Martin</sub>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=90&section=footer" width="100%"/>
+</div>
