@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Space Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋🏻, I'm Benjamín</h1>
 
 <h3 align="center">Full Stack Developer · Python & Django · React</h3>
