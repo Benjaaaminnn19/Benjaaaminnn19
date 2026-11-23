@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Space Banner" width="100%">
+  <img src="./banner.gif" alt="Binary Code Creation Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋🏻, I'm Benjamín</h1>
