@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋🏻, I'm Benjamín</h1>
 
-<h3 align="center">Full Stack Developer · Python & Django · React</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Full+Stack+Development;%3E+Python+%26+Django+Architecture;%3E+React+%26+Modern+Frontends;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=%3E+Full+Stack+Development;%3E+Scalable+Web+Architecture;%3E+Modern+User+Interfaces;%3E+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
@@ -16,7 +16,7 @@
 
 So here's the coffee ☕ I'm a full stack developer passionate about building web applications and bringing ideas into production, one commit at a time.
 
-I blend structured code, robust database architectures, and intuitive user experiences into real, actual, shipped products. I work end-to-end: from designing data models and REST APIs with **Python & Django** to crafting reactive, dynamic user interfaces with **React**.
+I blend structured code, robust database architectures, and intuitive user experiences into real, actual, shipped products. I work end-to-end: from designing scalable architectures and REST APIs to crafting modern, reactive user interfaces.
 
 My days basically go: dream up a concept → build it → break it → fix the bug I definitely just created → repeat until it works → act surprised when it works.
 
